@@ -7,8 +7,8 @@
         "microphone": "*"
     },
     "files": [
-        "README.md",
-        "main.py"
+        "main.py",
+        "RockPaperSissors.md"
     ],
     "testFiles": [],
     "targetVersions": {
@@ -18,5 +18,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "pyprj"
 }
